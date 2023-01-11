@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hellomicroverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> this project is to set up linters and make changes required by them
 
-**[your_project__name]** is a...
+**[hellomicroverse]** is the first project at microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -96,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[lintersfeature]**
+- **[htmlfeature]**
+- **[cssfeature]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,6 +123,9 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+html
+css
+linters
 
 <!--
 Example command:
@@ -206,8 +209,8 @@ Example:
 
 
 👤 **BADRU NDAWULA**
-- GitHub: [@githubhandle](https://github.com/PrinceBadru)
-- Twitter: [@twitterhandle](https://twitter.com/BadruNdawula)
+- GitHub: [badru@githubhandle](https://github.com/PrinceBadru)
+- Twitter: [badru@twitterhandle](https://twitter.com/BadruNdawula)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -218,9 +221,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[css]**
+- [ ] **[html]**
+- [ ] **[linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,11 +263,11 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[doyouknowhtml?]**
 
   - [Answer_1]
 
-- **[Question_2]**
+- **[doyouknowcss?]**
 
   - [Answer_2]
 
